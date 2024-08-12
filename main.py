@@ -89,7 +89,7 @@ def main():
         elif option == 2:
             print("Exiting..")
             time.sleep(1)
-            exit()
+            exit
         else:
             print("\nInvalid option, try again")
 
